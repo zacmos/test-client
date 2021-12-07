@@ -187,7 +187,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -313,7 +313,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -436,7 +436,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -555,7 +555,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -692,7 +692,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -827,7 +827,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -970,7 +970,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -1113,7 +1113,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -1273,7 +1273,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -1448,7 +1448,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -1605,7 +1605,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -1753,7 +1753,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -1904,7 +1904,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -2055,7 +2055,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -2188,7 +2188,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -2435,7 +2435,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -2585,7 +2585,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -2725,7 +2725,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -2853,7 +2853,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -2988,7 +2988,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -3140,7 +3140,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -3304,7 +3304,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -3442,7 +3442,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -3561,7 +3561,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -3700,7 +3700,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -3834,7 +3834,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -3963,7 +3963,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -4096,7 +4096,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -4248,7 +4248,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -4388,7 +4388,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -4530,7 +4530,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -4665,7 +4665,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -4799,7 +4799,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -4971,7 +4971,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -5152,7 +5152,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -5312,7 +5312,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -5481,7 +5481,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -5592,6 +5592,278 @@ public class TwitterApi {
         return localVarCall;
     }
     /**
+     * Build call for spaceBuyers
+     * @param id The space id from which tweets will be retrieved (required)
+     * @param userFields A comma separated list of User fields to display. (optional)
+     * @param _callback Callback for upload/download progress
+     * @return Call to execute
+     * @throws ApiException If fail to serialize the request body object
+     * @http.response.details
+     <table summary="Response Details" border="1">
+        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
+        <tr><td> 200 </td><td> The request was successful </td><td>  -  </td></tr>
+        <tr><td> 0 </td><td> The request has failed. </td><td>  -  </td></tr>
+     </table>
+     */
+    public okhttp3.Call spaceBuyersCall(String id, Set<String> userFields, final ApiCallback _callback) throws ApiException {
+        Object localVarPostBody = null;
+
+        // create path and map variables
+        String localVarPath = "/2/spaces/{id}/buyers"
+            .replaceAll("\\{" + "id" + "\\}", localVarApiClient.escapeString(id.toString()));
+
+        List<Pair> localVarQueryParams = new ArrayList<Pair>();
+        List<Pair> localVarCollectionQueryParams = new ArrayList<Pair>();
+        Map<String, String> localVarHeaderParams = new HashMap<String, String>();
+        Map<String, String> localVarCookieParams = new HashMap<String, String>();
+        Map<String, Object> localVarFormParams = new HashMap<String, Object>();
+
+        if (userFields != null) {
+            localVarCollectionQueryParams.addAll(localVarApiClient.parameterToPairs("csv", "user.fields", userFields));
+        }
+
+        final String[] localVarAccepts = {
+            "application/json", "application/problem+json"
+        };
+        final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
+        if (localVarAccept != null) {
+            localVarHeaderParams.put("Accept", localVarAccept);
+        }
+
+        final String[] localVarContentTypes = {
+            
+        };
+        final String localVarContentType = localVarApiClient.selectHeaderContentType(localVarContentTypes);
+        if (localVarHeaderParams != null) {
+            localVarHeaderParams.put("Content-Type", localVarContentType);
+        }
+
+        String[] localVarAuthNames = new String[] { "BearerToken", "UserToken" };
+        return localVarApiClient.buildCall(localVarPath, "GET", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, reduceAuthNames(localVarAuthNames), _callback);
+    }
+
+    @SuppressWarnings("rawtypes")
+    private okhttp3.Call spaceBuyersValidateBeforeCall(String id, Set<String> userFields, final ApiCallback _callback) throws ApiException {
+        
+        // verify the required parameter 'id' is set
+        if (id == null) {
+            throw new ApiException("Missing the required parameter 'id' when calling spaceBuyers(Async)");
+        }
+        
+
+        okhttp3.Call localVarCall = spaceBuyersCall(id, userFields, _callback);
+        return localVarCall;
+
+    }
+
+    /**
+     * Retrieve the list of users who purchased a ticket to the given space
+     * Retrieves the list of users who purchased a ticket to the given space
+     * @param id The space id from which tweets will be retrieved (required)
+     * @param userFields A comma separated list of User fields to display. (optional)
+     * @return MultiUserLookupResponse
+     * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
+     * @http.response.details
+     <table summary="Response Details" border="1">
+        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
+        <tr><td> 200 </td><td> The request was successful </td><td>  -  </td></tr>
+        <tr><td> 0 </td><td> The request has failed. </td><td>  -  </td></tr>
+     </table>
+     */
+    public MultiUserLookupResponse spaceBuyers(String id, Set<String> userFields) throws ApiException {
+        ApiResponse<MultiUserLookupResponse> localVarResp = spaceBuyersWithHttpInfo(id, userFields);
+        return localVarResp.getData();
+    }
+
+    /**
+     * Retrieve the list of users who purchased a ticket to the given space
+     * Retrieves the list of users who purchased a ticket to the given space
+     * @param id The space id from which tweets will be retrieved (required)
+     * @param userFields A comma separated list of User fields to display. (optional)
+     * @return ApiResponse&lt;MultiUserLookupResponse&gt;
+     * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
+     * @http.response.details
+     <table summary="Response Details" border="1">
+        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
+        <tr><td> 200 </td><td> The request was successful </td><td>  -  </td></tr>
+        <tr><td> 0 </td><td> The request has failed. </td><td>  -  </td></tr>
+     </table>
+     */
+    public ApiResponse<MultiUserLookupResponse> spaceBuyersWithHttpInfo(String id, Set<String> userFields) throws ApiException {
+        okhttp3.Call localVarCall = spaceBuyersValidateBeforeCall(id, userFields, null);
+        try {
+            Type localVarReturnType = new TypeToken<MultiUserLookupResponse>(){}.getType();
+            return localVarApiClient.execute(localVarCall, localVarReturnType);
+        } catch (ApiException e) {
+            e.setErrorObject(localVarApiClient.getJSON().getGson().fromJson(e.getResponseBody(), new TypeToken<com.twitter.clientlib.model.ProblemOrError>(){}.getType()));
+            e.setErrorObjectType(new GenericType<com.twitter.clientlib.model.ProblemOrError>(){});
+            throw e;
+        }
+    }
+
+    /**
+     * Retrieve the list of users who purchased a ticket to the given space (asynchronously)
+     * Retrieves the list of users who purchased a ticket to the given space
+     * @param id The space id from which tweets will be retrieved (required)
+     * @param userFields A comma separated list of User fields to display. (optional)
+     * @param _callback The callback to be executed when the API call finishes
+     * @return The request call
+     * @throws ApiException If fail to process the API call, e.g. serializing the request body object
+     * @http.response.details
+     <table summary="Response Details" border="1">
+        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
+        <tr><td> 200 </td><td> The request was successful </td><td>  -  </td></tr>
+        <tr><td> 0 </td><td> The request has failed. </td><td>  -  </td></tr>
+     </table>
+     */
+    public okhttp3.Call spaceBuyersAsync(String id, Set<String> userFields, final ApiCallback<MultiUserLookupResponse> _callback) throws ApiException {
+
+        okhttp3.Call localVarCall = spaceBuyersValidateBeforeCall(id, userFields, _callback);
+        Type localVarReturnType = new TypeToken<MultiUserLookupResponse>(){}.getType();
+        localVarApiClient.executeAsync(localVarCall, localVarReturnType, _callback);
+        return localVarCall;
+    }
+    /**
+     * Build call for spaceTweets
+     * @param id The space id from which tweets will be retrieved (required)
+     * @param maxResults The number of tweets to fetch from the provided space. If not provided, the value will default to the maximum of 100 (optional)
+     * @param tweetFields A comma separated list of Tweet fields to display. (optional)
+     * @param _callback Callback for upload/download progress
+     * @return Call to execute
+     * @throws ApiException If fail to serialize the request body object
+     * @http.response.details
+     <table summary="Response Details" border="1">
+        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
+        <tr><td> 200 </td><td> The request was successful </td><td>  -  </td></tr>
+        <tr><td> 0 </td><td> The request has failed. </td><td>  -  </td></tr>
+     </table>
+     */
+    public okhttp3.Call spaceTweetsCall(String id, Integer maxResults, Set<String> tweetFields, final ApiCallback _callback) throws ApiException {
+        Object localVarPostBody = null;
+
+        // create path and map variables
+        String localVarPath = "/2/spaces/{id}/tweets"
+            .replaceAll("\\{" + "id" + "\\}", localVarApiClient.escapeString(id.toString()));
+
+        List<Pair> localVarQueryParams = new ArrayList<Pair>();
+        List<Pair> localVarCollectionQueryParams = new ArrayList<Pair>();
+        Map<String, String> localVarHeaderParams = new HashMap<String, String>();
+        Map<String, String> localVarCookieParams = new HashMap<String, String>();
+        Map<String, Object> localVarFormParams = new HashMap<String, Object>();
+
+        if (maxResults != null) {
+            localVarQueryParams.addAll(localVarApiClient.parameterToPair("max_results", maxResults));
+        }
+
+        if (tweetFields != null) {
+            localVarCollectionQueryParams.addAll(localVarApiClient.parameterToPairs("csv", "tweet.fields", tweetFields));
+        }
+
+        final String[] localVarAccepts = {
+            "application/json", "application/problem+json"
+        };
+        final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
+        if (localVarAccept != null) {
+            localVarHeaderParams.put("Accept", localVarAccept);
+        }
+
+        final String[] localVarContentTypes = {
+            
+        };
+        final String localVarContentType = localVarApiClient.selectHeaderContentType(localVarContentTypes);
+        if (localVarHeaderParams != null) {
+            localVarHeaderParams.put("Content-Type", localVarContentType);
+        }
+
+        String[] localVarAuthNames = new String[] { "BearerToken", "UserToken" };
+        return localVarApiClient.buildCall(localVarPath, "GET", localVarQueryParams, localVarCollectionQueryParams, localVarPostBody, localVarHeaderParams, localVarCookieParams, localVarFormParams, reduceAuthNames(localVarAuthNames), _callback);
+    }
+
+    @SuppressWarnings("rawtypes")
+    private okhttp3.Call spaceTweetsValidateBeforeCall(String id, Integer maxResults, Set<String> tweetFields, final ApiCallback _callback) throws ApiException {
+        
+        // verify the required parameter 'id' is set
+        if (id == null) {
+            throw new ApiException("Missing the required parameter 'id' when calling spaceTweets(Async)");
+        }
+        
+
+        okhttp3.Call localVarCall = spaceTweetsCall(id, maxResults, tweetFields, _callback);
+        return localVarCall;
+
+    }
+
+    /**
+     * Retrieve tweets from a Space
+     * Retrieves tweets shared in the specified space
+     * @param id The space id from which tweets will be retrieved (required)
+     * @param maxResults The number of tweets to fetch from the provided space. If not provided, the value will default to the maximum of 100 (optional)
+     * @param tweetFields A comma separated list of Tweet fields to display. (optional)
+     * @return MultiTweetLookupResponse
+     * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
+     * @http.response.details
+     <table summary="Response Details" border="1">
+        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
+        <tr><td> 200 </td><td> The request was successful </td><td>  -  </td></tr>
+        <tr><td> 0 </td><td> The request has failed. </td><td>  -  </td></tr>
+     </table>
+     */
+    public MultiTweetLookupResponse spaceTweets(String id, Integer maxResults, Set<String> tweetFields) throws ApiException {
+        ApiResponse<MultiTweetLookupResponse> localVarResp = spaceTweetsWithHttpInfo(id, maxResults, tweetFields);
+        return localVarResp.getData();
+    }
+
+    /**
+     * Retrieve tweets from a Space
+     * Retrieves tweets shared in the specified space
+     * @param id The space id from which tweets will be retrieved (required)
+     * @param maxResults The number of tweets to fetch from the provided space. If not provided, the value will default to the maximum of 100 (optional)
+     * @param tweetFields A comma separated list of Tweet fields to display. (optional)
+     * @return ApiResponse&lt;MultiTweetLookupResponse&gt;
+     * @throws ApiException If fail to call the API, e.g. server error or cannot deserialize the response body
+     * @http.response.details
+     <table summary="Response Details" border="1">
+        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
+        <tr><td> 200 </td><td> The request was successful </td><td>  -  </td></tr>
+        <tr><td> 0 </td><td> The request has failed. </td><td>  -  </td></tr>
+     </table>
+     */
+    public ApiResponse<MultiTweetLookupResponse> spaceTweetsWithHttpInfo(String id, Integer maxResults, Set<String> tweetFields) throws ApiException {
+        okhttp3.Call localVarCall = spaceTweetsValidateBeforeCall(id, maxResults, tweetFields, null);
+        try {
+            Type localVarReturnType = new TypeToken<MultiTweetLookupResponse>(){}.getType();
+            return localVarApiClient.execute(localVarCall, localVarReturnType);
+        } catch (ApiException e) {
+            e.setErrorObject(localVarApiClient.getJSON().getGson().fromJson(e.getResponseBody(), new TypeToken<com.twitter.clientlib.model.ProblemOrError>(){}.getType()));
+            e.setErrorObjectType(new GenericType<com.twitter.clientlib.model.ProblemOrError>(){});
+            throw e;
+        }
+    }
+
+    /**
+     * Retrieve tweets from a Space (asynchronously)
+     * Retrieves tweets shared in the specified space
+     * @param id The space id from which tweets will be retrieved (required)
+     * @param maxResults The number of tweets to fetch from the provided space. If not provided, the value will default to the maximum of 100 (optional)
+     * @param tweetFields A comma separated list of Tweet fields to display. (optional)
+     * @param _callback The callback to be executed when the API call finishes
+     * @return The request call
+     * @throws ApiException If fail to process the API call, e.g. serializing the request body object
+     * @http.response.details
+     <table summary="Response Details" border="1">
+        <tr><td> Status Code </td><td> Description </td><td> Response Headers </td></tr>
+        <tr><td> 200 </td><td> The request was successful </td><td>  -  </td></tr>
+        <tr><td> 0 </td><td> The request has failed. </td><td>  -  </td></tr>
+     </table>
+     */
+    public okhttp3.Call spaceTweetsAsync(String id, Integer maxResults, Set<String> tweetFields, final ApiCallback<MultiTweetLookupResponse> _callback) throws ApiException {
+
+        okhttp3.Call localVarCall = spaceTweetsValidateBeforeCall(id, maxResults, tweetFields, _callback);
+        Type localVarReturnType = new TypeToken<MultiTweetLookupResponse>(){}.getType();
+        localVarApiClient.executeAsync(localVarCall, localVarReturnType, _callback);
+        return localVarCall;
+    }
+    /**
      * Build call for tweetCountsFullArchiveSearch
      * @param query One query/rule/filter for matching Tweets. Up to 2048 characters. (required)
      * @param startTime YYYY-MM-DDTHH:mm:ssZ. The oldest UTC timestamp (from most recent 7 days) from which the Tweets will be provided. Timestamp is in second granularity and is inclusive (i.e. 12:00:01 includes the first second of the minute). (optional)
@@ -5651,7 +5923,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -5826,7 +6098,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -6031,7 +6303,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -6201,7 +6473,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -6341,7 +6613,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -6534,7 +6806,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -6719,7 +6991,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -6868,7 +7140,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -7008,7 +7280,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -7198,7 +7470,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -7423,7 +7695,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -7587,7 +7859,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -7724,7 +7996,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -7855,7 +8127,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -7992,7 +8264,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -8132,7 +8404,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -8263,7 +8535,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -8430,7 +8702,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -8638,7 +8910,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -8799,7 +9071,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -8936,7 +9208,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -9067,7 +9339,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -9259,7 +9531,7 @@ public class TwitterApi {
         }
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -9424,7 +9696,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -9558,7 +9830,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -9692,7 +9964,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -9826,7 +10098,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {
@@ -9960,7 +10232,7 @@ public class TwitterApi {
         Map<String, Object> localVarFormParams = new HashMap<String, Object>();
 
         final String[] localVarAccepts = {
-            "application/json", "application/json; charset=utf-8", "application/problem+json"
+            "application/json", "application/problem+json"
         };
         final String localVarAccept = localVarApiClient.selectHeaderAccept(localVarAccepts);
         if (localVarAccept != null) {

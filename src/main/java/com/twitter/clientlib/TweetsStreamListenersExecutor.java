@@ -98,8 +98,7 @@ public class TweetsStreamListenersExecutor {
 
     public void queueTweets() {
       JSON json = new JSON();
-      Type localVarReturnType = new TypeToken<StreamingTweet>() {
-      }.getType();
+      Type localVarReturnType = new TypeToken<StreamingTweet>() {}.getType();
 
       try (BufferedReader reader = new BufferedReader(new InputStreamReader(stream))) {
         String line = reader.readLine();

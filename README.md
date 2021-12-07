@@ -83,28 +83,28 @@ import com.twitter.clientlib.ApiException;
 import com.twitter.clientlib.Configuration;
 import com.twitter.clientlib.auth.*;
 import com.twitter.clientlib.model.*;
-import com.twitter.clientlib.api.SpacesApi;
+import com.twitter.clientlib.api.TwitterApi;
 import java.util.Set;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.time.OffsetDateTime;
 
-public class SpacesApiExample {
+public class TwitterApiExample {
 
     public static void main(String[] args) {
         // Credentials are used from:
         // 1. Environment variables:
         //       TWITTER_BEARER_TOKEN, TWITTER_CONSUMER_KEY, TWITTER_CONSUMER_SECRET, TWITTER_TOKEN, TWITTER_TOKEN_SECRET
-        // 2. Can sent to SpacesApi constructor as TwitterCredentials.
+        // 2. Can sent to TwitterApi constructor as TwitterCredentials.
 
-        SpacesApi apiInstance = new SpacesApi(); 
-        String id = "1YqKDqWqdPLsV"; // String | The space id from which tweets will be retrieved
-        Set<String> userFields = new HashSet<>(Arrays.asList()); // Set<String> | A comma separated list of User fields to display.
+        TwitterApi apiInstance = new TwitterApi(); 
+        AddOrDeleteRulesRequest addOrDeleteRulesRequest = new AddOrDeleteRulesRequest(); // AddOrDeleteRulesRequest | 
+        Boolean dryRun = true; // Boolean | Dry Run can be used with both the add and delete action, with the expected result given, but without actually taking any action in the system (meaning the end state will always be as it was when the request was submitted). This is particularly useful to validate rule changes.
         try {
-            MultiUserLookupResponse result = apiInstance.spaceBuyers(id, userFields);
+            AddOrDeleteRulesResponse result = apiInstance.addOrDeleteRules(addOrDeleteRulesRequest, dryRun);
             System.out.println(result);
         } catch (ApiException e) {
-            System.err.println("Exception when calling SpacesApi#spaceBuyers");
+            System.err.println("Exception when calling TwitterApi#addOrDeleteRules");
             System.err.println("Status code: " + e.getCode());
             System.err.println("Reason: " + e.getResponseBody());
             System.err.println("Response headers: " + e.getResponseHeaders());
@@ -121,10 +121,6 @@ All URIs are relative to *https://api.twitter.com*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
-*SpacesApi* | [**spaceBuyers**](docs/SpacesApi.md#spaceBuyers) | **GET** /2/spaces/{id}/buyers | Retrieve the list of users who purchased a ticket to the given space
-*SpacesApi* | [**spaceTweets**](docs/SpacesApi.md#spaceTweets) | **GET** /2/spaces/{id}/tweets | Retrieve tweets from a Space
-*TweetsApi* | [**spaceBuyers**](docs/TweetsApi.md#spaceBuyers) | **GET** /2/spaces/{id}/buyers | Retrieve the list of users who purchased a ticket to the given space
-*TweetsApi* | [**spaceTweets**](docs/TweetsApi.md#spaceTweets) | **GET** /2/spaces/{id}/tweets | Retrieve tweets from a Space
 *TwitterApi* | [**addOrDeleteRules**](docs/TwitterApi.md#addOrDeleteRules) | **POST** /2/tweets/search/stream/rules | Add/Delete rules
 *TwitterApi* | [**createBatchComplianceJob**](docs/TwitterApi.md#createBatchComplianceJob) | **POST** /2/compliance/jobs | Create compliance job
 *TwitterApi* | [**createTweet**](docs/TwitterApi.md#createTweet) | **POST** /2/tweets | Creation of a Tweet
@@ -163,6 +159,8 @@ Class | Method | HTTP request | Description
 *TwitterApi* | [**sampleStream**](docs/TwitterApi.md#sampleStream) | **GET** /2/tweets/sample/stream | Sample stream
 *TwitterApi* | [**searchSpaces**](docs/TwitterApi.md#searchSpaces) | **GET** /2/spaces/search | Search for Spaces
 *TwitterApi* | [**searchStream**](docs/TwitterApi.md#searchStream) | **GET** /2/tweets/search/stream | Filtered stream
+*TwitterApi* | [**spaceBuyers**](docs/TwitterApi.md#spaceBuyers) | **GET** /2/spaces/{id}/buyers | Retrieve the list of users who purchased a ticket to the given space
+*TwitterApi* | [**spaceTweets**](docs/TwitterApi.md#spaceTweets) | **GET** /2/spaces/{id}/tweets | Retrieve tweets from a Space
 *TwitterApi* | [**tweetCountsFullArchiveSearch**](docs/TwitterApi.md#tweetCountsFullArchiveSearch) | **GET** /2/tweets/counts/all | Full archive search counts
 *TwitterApi* | [**tweetCountsRecentSearch**](docs/TwitterApi.md#tweetCountsRecentSearch) | **GET** /2/tweets/counts/recent | Recent search counts
 *TwitterApi* | [**tweetsFullarchiveSearch**](docs/TwitterApi.md#tweetsFullarchiveSearch) | **GET** /2/tweets/search/all | Full-archive search
@@ -296,6 +294,7 @@ Class | Method | HTTP request | Description
  - [Poll](docs/Poll.md)
  - [PollOption](docs/PollOption.md)
  - [Problem](docs/Problem.md)
+ - [ProblemOrError](docs/ProblemOrError.md)
  - [ReplySettings](docs/ReplySettings.md)
  - [ResourceNotFoundProblem](docs/ResourceNotFoundProblem.md)
  - [ResourceNotFoundProblemAllOf](docs/ResourceNotFoundProblemAllOf.md)
@@ -396,8 +395,6 @@ Authentication schemes defined for the API:
 It's recommended to create an instance of `ApiClient` per thread in a multithreaded environment to avoid any potential issues.
 
 ## Author
-
-
 
 
 

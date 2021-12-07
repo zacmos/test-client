@@ -773,6 +773,7 @@ public class JSON {
             .registerTypeAdapterFactory(new com.twitter.clientlib.model.Point.CustomTypeAdapterFactory())
             .registerTypeAdapterFactory(new com.twitter.clientlib.model.Poll.CustomTypeAdapterFactory())
             .registerTypeAdapterFactory(new com.twitter.clientlib.model.PollOption.CustomTypeAdapterFactory())
+            .registerTypeAdapterFactory(new com.twitter.clientlib.model.ProblemOrError.CustomTypeAdapterFactory())
             .registerTypeAdapterFactory(new com.twitter.clientlib.model.ResourceNotFoundProblem.CustomTypeAdapterFactory())
             .registerTypeAdapterFactory(new com.twitter.clientlib.model.ResourceNotFoundProblemAllOf.CustomTypeAdapterFactory())
             .registerTypeAdapterFactory(new com.twitter.clientlib.model.ResourceUnauthorizedProblem.CustomTypeAdapterFactory())

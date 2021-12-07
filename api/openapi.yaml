@@ -165,7 +165,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -294,7 +294,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -428,7 +428,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -547,7 +547,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -675,7 +675,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -733,7 +733,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -784,7 +784,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -829,7 +829,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -873,7 +873,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -929,7 +929,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -980,7 +980,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1038,7 +1038,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1096,7 +1096,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1155,7 +1155,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1208,7 +1208,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1266,7 +1266,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1312,7 +1312,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1447,7 +1447,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1488,7 +1488,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1533,7 +1533,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1668,7 +1668,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1804,7 +1804,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1919,7 +1919,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -1958,7 +1958,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -2003,7 +2003,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -2239,7 +2239,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -2337,7 +2337,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -2373,7 +2373,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -2603,7 +2603,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -2652,7 +2652,7 @@ paths:
           description: A successful response. The reply has been hidden or unhidden.
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -2949,7 +2949,7 @@ paths:
           description: Tweets recent search response
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -3246,7 +3246,7 @@ paths:
           description: Tweets full archive search response
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -3480,7 +3480,7 @@ paths:
             a stream of individual JSON Tweet payloads.
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -3542,7 +3542,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -3587,7 +3587,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -3822,7 +3822,7 @@ paths:
             a stream of individual JSON Tweet payloads.
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -4153,7 +4153,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -4467,7 +4467,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -4763,7 +4763,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5058,7 +5058,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5100,7 +5100,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5145,7 +5145,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5395,7 +5395,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5451,7 +5451,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5508,7 +5508,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5550,7 +5550,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5595,7 +5595,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5692,7 +5692,7 @@ paths:
           description: Recent tweet counts response
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5790,7 +5790,7 @@ paths:
           description: Tweet counts response
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5835,7 +5835,7 @@ paths:
           description: List compliance jobs response
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5888,7 +5888,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5924,7 +5924,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5956,7 +5956,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -5992,7 +5992,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -6105,7 +6105,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -6145,7 +6145,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -6294,7 +6294,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -6443,7 +6443,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -6484,7 +6484,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -6528,7 +6528,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -6779,7 +6779,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -6879,7 +6879,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -6982,7 +6982,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -7085,7 +7085,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -7211,7 +7211,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -7298,7 +7298,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -7310,8 +7310,7 @@ paths:
         UserToken: []
       summary: Retrieve tweets from a Space
       tags:
-      - Spaces
-      - Tweets
+      - Twitter
       x-accepts: application/json
   /2/spaces/{id}/buyers:
     get:
@@ -7369,7 +7368,7 @@ paths:
           description: The request was successful
         default:
           content:
-            application/json; charset=utf-8:
+            application/json:
               schema:
                 $ref: '#/components/schemas/Error'
             application/problem+json:
@@ -7381,8 +7380,7 @@ paths:
         UserToken: []
       summary: Retrieve the list of users who purchased a ticket to the given space
       tags:
-      - Spaces
-      - Tweets
+      - Twitter
       x-accepts: application/json
 components:
   parameters:
@@ -7866,7 +7864,7 @@ components:
   responses:
     HttpErrorResponse:
       content:
-        application/json; charset=utf-8:
+        application/json:
           schema:
             $ref: '#/components/schemas/Error'
         application/problem+json:
@@ -7874,6 +7872,11 @@ components:
             $ref: '#/components/schemas/Problem'
       description: The request has failed.
   schemas:
+    ProblemOrError:
+      oneOf:
+      - $ref: '#/components/schemas/Error'
+      - $ref: '#/components/schemas/Problem'
+      type: object
     MediaHeight:
       description: The height of the media in pixels
       minimum: 0
